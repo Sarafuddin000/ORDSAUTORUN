@@ -21,7 +21,11 @@ Automatically start Listner, Database and ORDS to stay connected with your Apex.
 14. Find OrdsAutoRun > double click on it > select Startup Type: Automatic and hit Start Button
 
 Run and Debug
+
 15. Stop OracleOraDB19Home1TNSListener, OracleServiceORCL and ORDS [All at once, or check one by one]
 16. Now Double click / execute OrdsAutoRun.Bat and wait two minutes
+
+
+
 
 Enjoy almost zero hour downtime of your APEX Build Systems.
